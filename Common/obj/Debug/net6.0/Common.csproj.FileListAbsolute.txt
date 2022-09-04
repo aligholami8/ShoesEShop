@@ -1,0 +1,12 @@
+C:\Users\sadra\source\repos\ShoesEShop\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\sadra\source\repos\ShoesEShop\Common\bin\Debug\net6.0\Common.dll
+C:\Users\sadra\source\repos\ShoesEShop\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\sadra\source\repos\ShoesEShop\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\sadra\source\repos\ShoesEShop\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadra\source\repos\ShoesEShop\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\sadra\source\repos\ShoesEShop\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\sadra\source\repos\ShoesEShop\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\sadra\source\repos\ShoesEShop\Common\obj\Debug\net6.0\Common.dll
+C:\Users\sadra\source\repos\ShoesEShop\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\sadra\source\repos\ShoesEShop\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\sadra\source\repos\ShoesEShop\Common\obj\Debug\net6.0\ref\Common.dll
